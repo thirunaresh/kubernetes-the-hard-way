@@ -12,7 +12,7 @@ The target audience for this tutorial is someone planning to support a productio
 
 ## Cluster Details
 
-Kubernetes The Hard Way guides you through bootstrapping a highly available Kubernetes cluster with end-to-end encryption between components and RBAC authentication.
+Kubernetes The Hard Way guides you through bootstrapping a highly available Kubernetes cluster with end-to-end encryption between components and RBAC authentication...
 
 * [Kubernetes](https://github.com/kubernetes/kubernetes) 1.10.2
 * [containerd Container Runtime](https://github.com/containerd/containerd) 1.1.0
